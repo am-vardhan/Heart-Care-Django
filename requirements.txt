@@ -1,2 +1,2 @@
-Django==2.2
-Pillow==6.0.0
+# Below are the pre-requisites to configure this project | please run this commands one by one.
+
